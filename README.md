@@ -3,3 +3,5 @@
 # new line for rebase example
 
 #new changes from github
+
+# Еще одни изменения из GitHub
