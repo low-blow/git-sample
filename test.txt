@@ -3,3 +3,4 @@ Change from master
 Change from dev branch
 Изменения для загрузки на репозиторий
 New change for rebase
+Это изменение какое-то непонятное совсем. Для тестов стеша.
